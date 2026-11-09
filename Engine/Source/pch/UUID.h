@@ -3,7 +3,7 @@
 
 #include <string>
 #include <tuple>
-#include "nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 
 using JUUID = std::string;
 using JNAME = std::string;

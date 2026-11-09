@@ -63,7 +63,7 @@ set(INCLUDES_SDK
     "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/PhysX/physx/include"
     "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/ultralight/ultralight-free-sdk-1.4.0-win-x64/include"
     "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/yaml-cpp-yaml-cpp-0.9.0/include"
-    "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/nlohmann.json/build/native/include"
+    "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/nlohmann.json/single_include"
     "${CMAKE_CURRENT_SOURCE_DIR}/../SDKs/WinPixEventRuntime/Include/WinPixEventRuntime"
 )
 

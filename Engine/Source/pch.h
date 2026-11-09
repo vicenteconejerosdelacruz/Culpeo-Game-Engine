@@ -105,6 +105,7 @@ enum SceneObjectType {
 #include <iterator>
 #include <cctype>
 #include <locale>
+#include <numeric>
 
 #if defined(_EDITOR)
 #include <ShlObj.h>
